@@ -2,7 +2,7 @@
 
 Project contains processing and manipulating of data obtained from European Enviromental Agency: https://www.eea.europa.eu/data-and-maps, with creating multiple DataFrames, concatinating and cleaning data.
 
-Created in Jupyter Notebook IDE
+Created in Jupyter Notebook
 
 Code in file:
 
